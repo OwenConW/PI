@@ -12,6 +12,6 @@
 - Aprender y practicar el workflow de GIT.
 - Usar y practicar testing.
 
-Estos Fueron los objetivos a cumplir en la cursada del PI de Henry, se logro cumplir todos y cada uno de ellos logranso asi pasar a la instancia de proyecto grupal! Espero que les guste <3 
+Estos Fueron los objetivos a cumplir en la cursada del PI de Henry, se logro cumplir todos y cada uno de ellos logrando asi pasar a la instancia de proyecto grupal! Espero que les guste <3 <br>
 PD: El proyecto se encuentra deployado  --->  https://pokemon-wikit-by-owen.vercel.app/
 
