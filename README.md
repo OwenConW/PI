@@ -1,6 +1,6 @@
 
 
-# Individual Project - Henry Pokemon
+# Henry Individual Project - Wiki Pokémon
 
 <img height="150" src="./pokemon.png" />
 
